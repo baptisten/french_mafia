@@ -1,0 +1,54 @@
+<!DOCTYPE>
+<html>
+  <head>
+    <link rel="shortcut icon" href="favicon.ico" />
+    <title>French Mafia</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+    <link href="style.css" rel="stylesheet" />
+
+    <!-- For loading external data files -->
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=Promise,fetch"></script>
+
+    <script src="../cytoscape.js/dist/cytoscape.min.js"></script>
+
+    <!-- for testing with local version of cytoscape.js -->
+    <!--<script src="../cytoscape.js/build/cytoscape.js"></script>-->
+
+    <script src="https://cdn.rawgit.com/cytoscape/cytoscape.js-cose-bilkent/1.6.5/cytoscape-cose-bilkent.js"></script>
+  </head>
+
+  <body>
+    <div class="dash">
+      <h1>The French Mafia in SF</h1>
+      <div class="companies">
+        <h2>Have worked ath the company</h2>
+        <div id="Ideo" class="butt">Ideo</div>
+        <div id="Ammu" class="butt">Ammunition</div>
+        <div id="Bachs" class="butt">Bachs</div>
+        <div id="Google" class="butt">Google</div>
+        <div id="Apple" class="butt">Apple</div>
+        <div id="HTC" class="butt">HTC</div>
+        <div id="Facebook" class="butt">Facebook</div>
+      </div>
+      <div class="appartments">
+        <h2>Have lived together</h2>
+        <div id="1518" class="butt">1518</div>
+        <div id="Alvarado" class="butt">Alvarado</div>
+        <div id="3841" class="butt">3841</div>
+        <div id="Other" class="butt">Other</div>
+      </div>
+      <div class="couples">
+        <div id="Couple" class="butt">Couples</div>
+      </div>
+      <div class="options">
+        <h2>Options</h2>
+        <div id="labels" class="butt">Labels OFF</div>
+        <div id="ShowAll" class="butt">Show All</div>
+      </div>
+    </div>
+
+    <div id="cy"></div>
+    <!-- Load appplication code at the end to ensure DOM is loaded -->
+    <script src="code.js"></script>
+  </body>
+</html>

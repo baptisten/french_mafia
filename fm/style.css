@@ -1,0 +1,53 @@
+body {
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+#cy {
+  width: 75%;
+  height: 100%;
+  position: absolute;
+  left: 25%;
+  top: 0;
+  z-index: 999;
+}
+
+.dash {
+  width: 25%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 999;
+  padding:20px;
+  background-color: #eeeeee;
+  overflow:scroll;
+}
+.butt {
+  padding:10px;
+  margin:5px;
+  background-color: #999999;
+  cursor:pointer;
+  width:30%;
+  display:inline-block;
+}
+.butt:hover {
+  color:#ffffff;
+}
+.butt.selected {
+  box-shadow: 5px 5px 5px #888888;
+}
+.companies .butt{
+  background-color: #7CB72A
+}
+.appartments .butt{
+  background-color: #E8A109;
+}
+.couples .butt {
+  background-color: #db008b;
+}
+
+h1 {
+  opacity: 0.5;
+  font-size: 1em;
+}

@@ -1,0 +1,315 @@
+data/id,data/name,data/color,position/x,position/z,data/insf,group,selected
+ama,Amanda,#a2224f,100,300,#ffffff,nodes,false
+bap,Baptiste,#426EB3,200,300,#ffffff,nodes,false
+nicl,Nicolas L.,#426EB3,300,300,#ffffff,nodes,false
+hor,Hortense,#a2224f,400,300,#ffffff,nodes,false
+leo,Leo,#426EB3,500,300,#ffffff,nodes,false
+col,Coline,#a2224f,600,300,#ffffff,nodes,false
+jul,Jules,#426EB3,700,300,#ffffff,nodes,false
+soi,Soizic,#a2224f,800,300,#ffffff,nodes,false
+gui,Guillaume,#426EB3,900,300,#ffffff,nodes,false
+fee,Feel,#a2224f,1000,300,#ffffff,nodes,false
+ach,Achille,#426EB3,1100,300,#ffffff,nodes,false
+adr,Adrianna,#a2224f,1200,300,#ffffff,nodes,false
+vincl,Vincent,#426EB3,1300,300,#ffffff,nodes,false
+jus,Justine,#a2224f,1400,300,#ffffff,nodes,false
+ben,Benoit,#426EB3,1500,300,#ffffff,nodes,false
+cec,Cecilia,#a2224f,100,400,#ffffff,nodes,false
+clep,Clement,#426EB3,200,400,#ffffff,nodes,false
+maru,Maru,#a2224f,300,400,#ffffff,nodes,false
+eli,Elie,#426EB3,400,400,#ffffff,nodes,false
+steb,Stephanie,#a2224f,500,400,#ffffff,nodes,false
+mar,Marie,#a2224f,600,400,#1D2432,nodes,false
+mat,Mathieu,#426EB3,700,400,#1D2432,nodes,false
+rom,Romain,#426EB3,800,400,#ffffff,nodes,false
+frad,Francois Dransart,#426EB3,900,400,#ffffff,nodes,false
+stec,Stephanie,#a2224f,1000,400,#ffffff,nodes,false
+jun,Junior,#426EB3,1100,400,#ffffff,nodes,false
+frar,Francois R,#426EB3,1200,400,#1D2432,nodes,false
+syl,Sylvain,#426EB3,1300,400,#1D2432,nodes,false
+maxl,Maxime L,#426EB3,1400,400,#1D2432,nodes,false
+maxdu,Maxime D.,#426EB3,1500,400,#ffffff,nodes,false
+tif,Tiffany,#a2224f,100,500,#ffffff,nodes,false
+art,Arthur ,#426EB3,200,500,#ffffff,nodes,false
+mor,Morgane,#a2224f,300,500,#ffffff,nodes,false
+maxde,Maxence,#426EB3,500,400,#ffffff,nodes,false
+emi,Emily,#a2224f,500,500,#ffffff,nodes,false
+cyr,Cyril,#426EB3,600,500,#1D2432,nodes,false
+noe,Noe,#426EB3,700,500,#1D2432,nodes,false
+ale,Alexandre,#426EB3,800,500,#ffffff,nodes,false
+lea,Leah,#a2224f,900,500,#ffffff,nodes,false
+flo,Flo,#426EB3,1000,500,#ffffff,nodes,false
+eth,Ethelind,#a2224f,1100,500,#ffffff,nodes,false
+gau,Gauthier,#426EB3,1200,500,#ffffff,nodes,false
+ken,Kendra,#a2224f,1300,500,#ffffff,nodes,false
+jen,Jen,#a2224f,1400,500,#ffffff,nodes,false
+nick,Nicolas Klein,#426EB3,1500,500,#ffffff,nodes,false
+pau,Paul,#426EB3,100,600,#ffffff,nodes,false
+cleb,Clement B.,#426EB3,200,600,#1D2432,nodes,false
+per,Perrine,#a2224f,300,600,#1D2432,nodes,false
+vinco,Vincent Colas,#426EB3,400,600,#ffffff,nodes,false
+juli,Julien,#426EB3,500,600,#ffffff,nodes,false
+cod,Cody,#a2224f,600,600,#ffffff,nodes,false
+arn,Arnaud,#426EB3,700,600,#ffffff,nodes,false
+mir,Mira,#a2224f,800,600,#ffffff,nodes,false
+
+
+data/id,data/name,data/source,data/target,data/color,goup
+1,1518,hor,flo,#E8A109,edges
+2,1518,hor,bap,#E8A109,edges
+3,1518,hor,nicl,#E8A109,edges
+4,1518,hor,jul,#E8A109,edges
+5,1518,hor,col,#E8A109,edges
+6,1518,hor,leo,#E8A109,edges
+7,1518,hor,noe,#E8A109,edges
+8,1518,hor,cyr,#E8A109,edges
+8a,1518,hor,per,#E8A109,edges
+8b,Ideo,hor,col,#7CB72A,edges
+8c,Ideo,hor,fee,#7CB72A,edges
+8d,Ideo,hor,leo,#7CB72A,edges
+8e,Ideo,hor,frar,#7CB72A,edges
+8f,Ideo,hor,soi,#7CB72A,edges
+8g,Ideo,hor,jul,#7CB72A,edges
+8h,Ideo,hor,fee,#7CB72A,edges
+
+9,1518,bap,nicl,#E8A109,edges
+10,1518,bap,flo,#E8A109,edges
+11,1518,bap,leo,#E8A109,edges
+12,1518,bap,col,#E8A109,edges
+13,1518,bap,cyr,#E8A109,edges
+14,1518,bap,jul,#E8A109,edges
+15,1518,bap,noe,#E8A109,edges
+
+16,1518,nicl,leo,#E8A109,edges
+17,1518,nicl,col,#E8A109,edges
+18,1518,nicl,flo,#E8A109,edges
+19,1518,nicl,jul,#E8A109,edges
+20,1518,nicl,cyr,#E8A109,edges
+21,1518,nicl,noe,#E8A109,edges
+22,1518,nicl,per,#E8A109,edges
+23,1518,nicl,clep,#E8A109,edges
+24,1518,nicl,cleb,#E8A109,edges
+25,Ammu,nicl,ach,#7CB72A,edges
+26,Ammu,nicl,gau,#7CB72A,edges
+27,Ammu,nicl,gui,#7CB72A,edges
+28,Ammu,nicl,jus,#7CB72A,edges
+29,Frog,nicl,frad,#7CB72A,edges
+29a,Ammu,nicl,per,#7CB72A,edges
+
+30,,ach,adr,#E8A109,edges
+31,Ammu,ach,jus,#7CB72A,edges
+32,Ammu,ach,gui,#7CB72A,edges
+32a,Ammu,ach,per,#7CB72A,edges
+33,Other,ach,art,#E8A109,edges
+34,Other,ach,maxdu,#E8A109,edges
+
+35,1518,per,cyr,#E8A109,edges
+36,1518,per,noe,#E8A109,edges
+38,1518,per,clep,#E8A109,edges
+38a,1518,per,gau,#E8A109,edges
+38b,1518,per,leo,#E8A109,edges
+39,Ammu,per,jus,#7CB72A,edges
+40,Ammu,per,gui,#7CB72A,edges
+
+41,Other,fee,gui,#E8A109,edges
+42,Google,fee,vincl,#7CB72A,edges
+43,Google,fee,nick,#7CB72A,edges
+44,Google,fee,maxdu,#7CB72A,edges
+45,Google,fee,jun,#7CB72A,edges
+46,Ideo,fee,leo,#7CB72A,edges
+47,Ideo,fee,soi,#7CB72A,edges
+48,Ideo,fee,jul,#7CB72A,edges
+49,Ideo,fee,frar,#7CB72A,edges
+50,Ideo,fee,col,#7CB72A,edges
+
+51,Ammu,gui,jus,#7CB72A,edges
+52,1518,gui,cleb,#E8A109,edges
+53,1518,gui,frar,#E8A109,edges
+54,1518,gui,gau,#E8A109,edges
+55,Google,nick,jun,#7CB72A,edges
+56,Google,nick,maxdu,#7CB72A,edges
+57,Google,nick,vincl,#7CB72A,edges
+
+58,1518,cyr,noe,#E8A109,edges
+59,1518,cyr,cleb,#E8A109,edges
+60,1518,cyr,clep,#E8A109,edges
+61,1518,cyr,gau,#E8A109,edges
+62,1518,cyr,jul,#E8A109,edges
+63,1518,cyr,col,#E8A109,edges
+64,1518,cyr,leo,#E8A109,edges
+64a,1518,cyr,flo,#E8A109,edges
+65,Huge,cyr,noe,#7CB72A,edges
+66,Huge,cyr,gau,#7CB72A,edges
+
+67,1518,noe,flo,#E8A109,edges
+68,1518,noe,col,#E8A109,edges
+69,Huge,noe,gau,#7CB72A,edges
+
+70,Other,ale,lea,#E8A109,edges
+71,Other,ale,vinco,#E8A109,edges
+
+72,Ideo,col,jul,#7CB72A,edges
+73,Ideo,col,leo,#7CB72A,edges
+74,Ideo,col,frar,#7CB72A,edges
+75,Ideo,col,soi,#7CB72A,edges
+76,Branch,col,flo,#7CB72A,edges
+77,1518,col,leo,#E8A109,edges
+78,1518,col,jul,#E8A109,edges
+79,3841,col,frar,#E8A109,edges
+
+80,Ideo,soi,jul,#7CB72A,edges
+81,Ideo,soi,leo,#7CB72A,edges
+82,Ideo,soi,frar,#7CB72A,edges
+83,3841,soi,eli,#E8A109,edges
+84,3841,soi,rom,#E8A109,edges
+
+85,Other,stec,jun,#E8A109,edges
+86,Other,stec,frad,#E8A109,edges
+
+87,,jun,frad,#E8A109,edges
+88,Google,jun,vincl,#7CB72A,edges
+89,Google,jun,maxdu,#7CB72A,edges
+
+90,Nokia,mat,gau,#7CB72A,edges
+91,Bachs,mat,maxde,#7CB72A,edges
+92,Bachs,mat,frar,#7CB72A,edges
+93,Bachs,mat,cleb,#7CB72A,edges
+94,Other,mat,mar,#E8A109,edges
+95,Other,mat,maxdu,#E8A109,edges
+
+96,Lunar,mar,ben,#7CB72A,edges
+97,Lunar,mar,tif,#7CB72A,edges
+98,3841,mar,rom,#E8A109,edges
+99,3841,mar,eli,#E8A109,edges
+100,3841,mar,steb,#E8A109,edges
+
+101,HTC,jus,maxde,#7CB72A,edges
+102,HTC,jus,maxdu,#7CB72A,edges
+103,Alvarado,jus,cec,#E8A109,edges
+104,Alvarado,jus,vincl,#E8A109,edges
+105,Alvarado,jus,ben,#E8A109,edges
+
+106,Apple,rom,juli,#7CB72A,edges
+107,Apple,rom,cod,#7CB72A,edges
+108,Apple,rom,ben,#7CB72A,edges
+109,Apple,rom,arn,#7CB72A,edges
+110,3841,rom,eli,#E8A109,edges
+111,3841,rom,steb,#E8A109,edges
+
+112,3841,eli,frar,#E8A109,edges
+113,3841,eli,steb,#E8A109,edges
+114,3841,eli,maxl,#E8A109,edges
+115,3841,eli,syl,#E8A109,edges
+
+116,Google,vincl,maxdu,#7CB72A,edges
+117,Alvarado,vincl,ben,#E8A109,edges
+118,Alvarado,vincl,cec,#E8A109,edges
+119,Alvarado,ben,cec,#E8A109,edges
+120,Apple,ben,arn,#7CB72A,edges
+121,Apple,ben,cod,#7CB72A,edges
+122,Apple,ben,juli,#7CB72A,edges
+
+123,Bachs,maxde,frar,#7CB72A,edges
+124,Bachs,maxde,gau,#7CB72A,edges
+124,Bachs,maxde,cleb,#7CB72A,edges
+125,Other,maxde,emi,#E8A109,edges
+126,1518,maxde,cleb,#E8A109,edges
+127,1518,maxde,gau,#E8A109,edges
+128,1518,maxde,frar,#E8A109,edges
+
+129,,maxdu,tif,#E8A109,edges
+130,Fuse,clep,art,#7CB72A,edges
+131,Other,art,mor,#E8A109,edges
+
+132,Other,clep,maru,#E8A109,edges
+133,1518,clep,cleb,#E8A109,edges
+134,1518,clep,gau,#E8A109,edges
+135,3841,clep,syl,#E8A109,edges
+136,3841,clep,frar,#E8A109,edges
+
+137,Other,arn,mir,#E8A109,edges
+138,Apple,arn,juli,#7CB72A,edges
+139,Apple,arn,cod,#7CB72A,edges
+140,Apple,juli,cod,#7CB72A,edges
+141,Other,juli,cod,#E8A109,edges
+
+142,Facebook,maxl,frar,#7CB72A,edges
+143,Facebook,maxl,syl,#7CB72A,edges
+144,3841,maxl,frar,#E8A109,edges
+145,3841,maxl,syl,#E8A109,edges
+146,3841,frar,syl,#E8A109,edges
+147,Facebook,frar,syl,#7CB72A,edges
+
+148,Bachs,cleb,frar,#7CB72A,edges
+149,Bachs,cleb,gau,#7CB72A,edges
+150,1518,cleb,frar,#E8A109,edges
+151,1518,cleb,gau,#E8A109,edges
+
+152,Other,gau,ken,#E8A109,edges
+153,1518,gau,frar,#E8A109,edges
+154,Bachs,gau,frar,#7CB72A,edges
+
+155,1518,flo,leo,#E8A109,edges
+156,Other,flo,eth,#E8A109,edges
+
+157,3841,leo,frar,#E8A109,edges
+158,Ideo,leo,frar,#7CB72A,edges
+
+159,Ideo,jul,frar,#7CB72A,edges
+160,Ideo,leo,jul,#7CB72A,edges
+161,1518,jul,leo,#E8A109,edges
+
+162,Couple,jul,soi,#db008b,edges
+163,Couple,leo,col,#db008b,edges
+164,Couple,gui,fee,#db008b,edges
+165,Couple,arn,mir,#db008b,edges
+166,Couple,juli,cod,#db008b,edges
+167,Couple,bap,ama,#db008b,edges
+168,Couple,ale,lea,#db008b,edges
+169,Couple,ben,cec,#db008b,edges
+170,Couple,eli,steb,#db008b,edges
+171,Couple,jun,stec,#db008b,edges
+172,Couple,ach,adr,#db008b,edges
+173,Couple,mor,art,#db008b,edges
+174,Couple,tif,maxdu,#db008b,edges
+175,Couple,emi,maxde,#db008b,edges
+176,Couple,jen,nick,#db008b,edges
+180,Couple,mar,mat,#db008b,edges
+181,EX,per,nicl,#db008b,edges
+182,Couple,clep,maru,#db008b,edges
+183,Couple,gau,ken,#db008b,edges
+184,Couple,flo,eth,#db008b,edges
+184,Couple,jus,vincl,#db008b,edges
+
+184,Other,nick,ale,#E8A109,edges
+
+
+
+
+
+  {
+    "data":{
+      "id":"1",
+      "name":"1518",
+      "source":"hor",
+      "target":"flo",
+      "color":"#E8A109"
+    },
+    "group":"edges",
+  }
+
+
+  {
+    "data":{
+      "id":"soiz",
+      "name":"Soizic",
+      "color":"#A2224F"
+    },
+    "position":{
+      "x":1000,
+      "y":400
+    },
+    "group":"nodes",
+    "selected":false
+  },
+
