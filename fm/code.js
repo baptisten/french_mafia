@@ -1,4 +1,4 @@
-fetch('data.json', {mode: 'no-cors'})
+fetch('fm/data.json', {mode: 'no-cors'})
   .then(function(res) {
     return res.json()
   })
