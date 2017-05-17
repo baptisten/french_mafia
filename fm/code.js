@@ -16,7 +16,7 @@ fetch('fm/data.json', {mode: 'no-cors'})
 
       layout: {
         name: 'cose',
-        animate: false
+        animate: true
       },
 
       style: [
@@ -30,13 +30,6 @@ fetch('fm/data.json', {mode: 'no-cors'})
             'text-outline-color': 'data(color)',
             'content': 'data(name)',
             'opacity':0.75
-          }
-        },
-        {
-          selector: ':selected',
-          style: {
-            'color': 'red',
-            'background-color': 'red'
           }
         },
         {
@@ -63,7 +56,6 @@ fetch('fm/data.json', {mode: 'no-cors'})
           cy.on('tap', function(evt){
           if(evt.target.length){
             var elem = evt.target;
-            console.log(elem);
 
             if(elem.group() == "nodes"){
 

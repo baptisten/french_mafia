@@ -1,4 +1,4 @@
-data/id,data/name,data/color,position/x,position/z,data/insf,group,selected
+data/id,data/name,data/color,position/x,position/y,data/insf,group,selected
 ama,Amanda,#a2224f,100,300,#ffffff,nodes,false
 bap,Baptiste,#426EB3,200,300,#ffffff,nodes,false
 nicl,Nicolas L.,#426EB3,300,300,#ffffff,nodes,false
@@ -32,7 +32,7 @@ maxdu,Maxime D.,#426EB3,1500,400,#ffffff,nodes,false
 tif,Tiffany,#a2224f,100,500,#ffffff,nodes,false
 art,Arthur ,#426EB3,200,500,#ffffff,nodes,false
 mor,Morgane,#a2224f,300,500,#ffffff,nodes,false
-maxde,Maxence,#426EB3,500,400,#ffffff,nodes,false
+maxde,Maxence,#426EB3,400,400,#ffffff,nodes,false
 emi,Emily,#a2224f,500,500,#ffffff,nodes,false
 cyr,Cyril,#426EB3,600,500,#1D2432,nodes,false
 noe,Noe,#426EB3,700,500,#1D2432,nodes,false
@@ -51,7 +51,7 @@ vinco,Vincent Colas,#426EB3,400,600,#ffffff,nodes,false
 juli,Julien,#426EB3,500,600,#ffffff,nodes,false
 cod,Cody,#a2224f,600,600,#ffffff,nodes,false
 arn,Arnaud,#426EB3,700,600,#ffffff,nodes,false
-mir,Mira,#a2224f,800,600,#ffffff,nodes,false
+mir,Mira,#a2224f,800,650,#ffffff,nodes,false
 
 
 data/id,data/name,data/source,data/target,data/color,goup
