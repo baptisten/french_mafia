@@ -6,6 +6,7 @@ fetch('fm/data.json', {mode: 'no-cors'})
     var buttons = ['Ideo','Ammu','Bachs','Google','Apple','HTC','Facebook','1518','3841','Alvarado','Other','Couple'];
     var labelsVisibility = 1;
     var showAllButtonValue = 0;
+    var showDashboardMobile = false;
 
     var cy = window.cy = cytoscape({
 
@@ -119,6 +120,24 @@ fetch('fm/data.json', {mode: 'no-cors'})
             cy.nodes().style({'opacity':0.75});
             showAllButtonValue = 0;
             showAllButton.className = "butt";
+          }
+        }
+
+        var circleButton = document.getElementById('CircleButton');
+        circleButton.onclick = function(){
+          cy.nodes().layoutPositions('circle',{'animate':true});
+        }
+
+        //Toggle ctrls
+        var showCtrlButton = document.getElementById('showCtrl');
+        showCtrlButton.onclick = function(){
+          var dashBoard = document.getElementById('dash');
+          if(showDashboardMobile){
+            dashBoard.className = "dash off";
+            showDashboardMobile = false;
+          }else {
+            dashBoard.className = "dash on";
+            showDashboardMobile = true;
           }
         }
       }
