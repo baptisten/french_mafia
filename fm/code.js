@@ -123,11 +123,6 @@ fetch('fm/data.json', {mode: 'no-cors'})
           }
         }
 
-        var circleButton = document.getElementById('CircleButton');
-        circleButton.onclick = function(){
-          cy.nodes().layoutPositions('circle',{'animate':true});
-        }
-
         //Toggle ctrls
         var showCtrlButton = document.getElementById('showCtrl');
         showCtrlButton.onclick = function(){
