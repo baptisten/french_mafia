@@ -52,6 +52,8 @@ juli,Julien,#426EB3,500,600,#ffffff,nodes,false
 cod,Cody,#a2224f,600,600,#ffffff,nodes,false
 arn,Arnaud,#426EB3,700,600,#ffffff,nodes,false
 mir,Mira,#a2224f,800,650,#ffffff,nodes,false
+pau,Paul,#426EB3,700,600,#ffffff,nodes,false
+eme,Emeline,#a2224f,800,650,#ffffff,nodes,false
 
 
 data/id,data/name,data/source,data/target,data/color,goup
@@ -284,6 +286,12 @@ data/id,data/name,data/source,data/target,data/color,goup
 184,Couple,jus,vincl,#db008b,edges
 
 184,Other,nick,ale,#E8A109,edges
+185,Apple,pau,ben,#7CB72A,edges
+186,Apple,pau,juli,#7CB72A,edges
+187,Apple,pau,cod,#7CB72A,edges
+188,Apple,pau,arn,#7CB72A,edges
+190,Apple,pau,rom,#7CB72A,edges
+191,EX,pau,eme,#db008b,edges
 
 
 

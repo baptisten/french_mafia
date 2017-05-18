@@ -729,6 +729,34 @@
 },
  {
    "data": {
+      "id": "eme",
+      "name": "Emeline",
+      "color": "#a2224f",
+      "insf": "#1D2432"
+   },
+   "position": {
+      "x": 800,
+      "y": 650
+   },
+   "group": "nodes",
+   "selected": false
+},
+ {
+   "data": {
+      "id": "pau",
+      "name": "Paul",
+      "color": "#426EB3",
+      "insf": "#ffffff"
+   },
+   "position": {
+      "x": 800,
+      "y": 650
+   },
+   "group": "nodes",
+   "selected": false
+},
+ {
+   "data": {
       "id": "1",
       "name": "1518",
       "source": "hor",
@@ -2659,7 +2687,7 @@
 },
  {
    "data": {
-      "id": "183",
+      "id": "183a",
       "name": "Couple",
       "source": "jus",
       "target": "vincl",
@@ -2694,6 +2722,76 @@
       "source": "flo",
       "target": "eth",
       "color": "#e800bf"
+   },
+   "goup": "edges"
+},
+ {
+   "data": {
+      "id": "185a",
+      "name": "EX",
+      "source": "pau",
+      "target": "eme",
+      "color": "#e800bf"
+   },
+   "goup": "edges"
+},
+ {
+   "data": {
+      "id": "186",
+      "name": "Apple",
+      "source": "pau",
+      "target": "ben",
+      "color": "#7CB72A"
+   },
+   "goup": "edges"
+},
+{
+   "data": {
+      "id": "187",
+      "name": "Apple",
+      "source": "pau",
+      "target": "juli",
+      "color": "#7CB72A"
+   },
+   "goup": "edges"
+},
+{
+   "data": {
+      "id": "188",
+      "name": "Apple",
+      "source": "pau",
+      "target": "cod",
+      "color": "#7CB72A"
+   },
+   "goup": "edges"
+},
+{
+   "data": {
+      "id": "189",
+      "name": "Apple",
+      "source": "pau",
+      "target": "rom",
+      "color": "#7CB72A"
+   },
+   "goup": "edges"
+},
+{
+   "data": {
+      "id": "190",
+      "name": "Apple",
+      "source": "pau",
+      "target": "arn",
+      "color": "#7CB72A"
+   },
+   "goup": "edges"
+},
+{
+   "data": {
+      "id": "191",
+      "name": "Apple",
+      "source": "pau",
+      "target": "",
+      "color": "#7CB72A"
    },
    "goup": "edges"
 }
