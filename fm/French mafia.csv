@@ -90,6 +90,8 @@ data/id,data/name,data/source,data/target,data/color,goup
 23,1518,nicl,clep,#E8A109,edges
 24,1518,nicl,cleb,#E8A109,edges
 25,Ammu,nicl,ach,#7CB72A,edges
+26,Bachs,mat,gau,#7CB72A,edges
+26a,Bachs,maxde,cleb,#7CB72A,edges
 26,Ammu,nicl,gau,#7CB72A,edges
 27,Ammu,nicl,gui,#7CB72A,edges
 28,Ammu,nicl,jus,#7CB72A,edges

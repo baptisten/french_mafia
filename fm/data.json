@@ -1060,9 +1060,19 @@
  {
    "data": {
       "id": "26",
-      "name": "Ammu",
-      "source": "nicl",
-      "target": "gau",
+      "name": "Bachs",
+      "source": "maxde",
+      "target": "celb",
+      "color": "#7CB72A"
+   },
+   "goup": "edges"
+},
+ {
+   "data": {
+      "id": "26a",
+      "name": "Bachs",
+      "source": "maxde",
+      "target": "mat",
       "color": "#7CB72A"
    },
    "goup": "edges"
