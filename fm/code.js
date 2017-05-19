@@ -3,7 +3,7 @@ fetch('fm/data.json', {mode: 'no-cors'})
     return res.json()
   })
   .then(function(data) {
-    var buttons = ['Ideo','Ammu','Bachs','Google','Apple','HTC','Facebook','1518','3841','Alvarado','Other','Couple'];
+    var buttons = ['Ideo','Ammu','Bachs','Google','Apple','HTC','Lunar','Facebook','1518','3841','Alvarado','Other','Couple'];
     var labelsVisibility = 1;
     var showAllButtonValue = 0;
     var showDashboardMobile = false;
