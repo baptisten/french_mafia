@@ -757,6 +757,34 @@
 },
  {
    "data": {
+      "id": "est",
+      "name": "Estefani",
+      "color": "#a2224f",
+      "insf": "#1D2432"
+   },
+   "position": {
+      "x": 800,
+      "y": 650
+   },
+   "group": "nodes",
+   "selected": false
+},
+ {
+   "data": {
+      "id": "cha",
+      "name": "Charles C.",
+      "color": "#426EB3",
+      "insf": "#ffffff"
+   },
+   "position": {
+      "x": 800,
+      "y": 650
+   },
+   "group": "nodes",
+   "selected": false
+},
+ {
+   "data": {
       "id": "1",
       "name": "1518",
       "source": "hor",
@@ -2832,6 +2860,116 @@
       "source": "tif",
       "target": "ben",
       "color": "#7CB72A"
+   },
+   "goup": "edges"
+},
+ {
+   "data": {
+      "id": "196",
+      "name": "Alvarado",
+      "source": "vincl",
+      "target": "maxdu",
+      "color": "#E8A109"
+   },
+   "goup": "edges"
+},
+ {
+   "data": {
+      "id": "197",
+      "name": "Alvarado",
+      "source": "ben",
+      "target": "maxdu",
+      "color": "#E8A109"
+   },
+   "goup": "edges"
+},
+ {
+   "data": {
+      "id": "198",
+      "name": "1518",
+      "source": "cha",
+      "target": "bap",
+      "color": "#E8A109"
+   },
+   "goup": "edges"
+},
+ {
+   "data": {
+      "id": "199",
+      "name": "1518",
+      "source": "est",
+      "target": "bap",
+      "color": "#E8A109"
+   },
+   "goup": "edges"
+},
+ {
+   "data": {
+      "id": "200",
+      "name": "1518",
+      "source": "cha",
+      "target": "leo",
+      "color": "#E8A109"
+   },
+   "goup": "edges"
+},
+ {
+   "data": {
+      "id": "201",
+      "name": "1518",
+      "source": "est",
+      "target": "leo",
+      "color": "#E8A109"
+   },
+   "goup": "edges"
+},
+ {
+   "data": {
+      "id": "202",
+      "name": "1518",
+      "source": "cha",
+      "target": "col",
+      "color": "#E8A109"
+   },
+   "goup": "edges"
+},
+ {
+   "data": {
+      "id": "203",
+      "name": "1518",
+      "source": "est",
+      "target": "col",
+      "color": "#E8A109"
+   },
+   "goup": "edges"
+},
+ {
+   "data": {
+      "id": "204",
+      "name": "1518",
+      "source": "cha",
+      "target": "hor",
+      "color": "#E8A109"
+   },
+   "goup": "edges"
+},
+ {
+   "data": {
+      "id": "205",
+      "name": "1518",
+      "source": "est",
+      "target": "hor",
+      "color": "#E8A109"
+   },
+   "goup": "edges"
+},
+ {
+   "data": {
+      "id": "206",
+      "name": "Couple",
+      "source": "cha",
+      "target": "est",
+      "color": "#e800bf"
    },
    "goup": "edges"
 }

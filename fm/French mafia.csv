@@ -54,6 +54,8 @@ arn,Arnaud,#426EB3,700,600,#ffffff,nodes,false
 mir,Mira,#a2224f,800,650,#ffffff,nodes,false
 pau,Paul,#426EB3,700,600,#ffffff,nodes,false
 eme,Emeline,#a2224f,800,650,#ffffff,nodes,false
+cha,Charles C.,#a2224f,800,650,#ffffff,nodes,false
+est,Estefani,#426EB3,700,600,#ffffff,nodes,false
 
 
 data/id,data/name,data/source,data/target,data/color,goup
@@ -298,6 +300,18 @@ data/id,data/name,data/source,data/target,data/color,goup
 194,Lunar,tif,ben,#7CB72A,edges
 195,Matter,clep,maxde,#7CB72A,edges
 
+196,Alvarado,maxdu,vincl,#E8A109,edges
+197,Alvarado,maxdu,ben,#E8A109,edges
+
+198,1518,cha,leo,#E8A109,edges
+199,1518,est,leo,#E8A109,edges
+200,1518,cha,col,#E8A109,edges
+201,1518,est,col,#E8A109,edges
+202,1518,cha,bap,#E8A109,edges
+203,1518,est,bap,#E8A109,edges
+204,1518,cha,hor,#E8A109,edges
+205,1518,est,hor,#E8A109,edges
+206,Couple,cha,est,#db008b,edges
 
 
 
